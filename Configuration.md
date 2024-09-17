@@ -1,4 +1,6 @@
 Introduction
+
+
 Dans ce tutoriel, nous allons vous guider à travers les étapes nécessaires pour installer et configurer une solution anti-phishing en utilisant pfSense. Nous couvrirons l'installation de modules essentiels tels que Squid, SquidGuard et pfBlockerNG, ainsi que leur configuration pour garantir une protection efficace contre les tentatives de phishing.
 
 Pré-requis
